@@ -8,7 +8,7 @@ Subject: use case on spectral embedding using digits dataset and agglomerative c
 Respected everyone,
 <br>
 <br>
-We have been given the digits dataset. We write a function to plot the clusters. We carry out 2D embedding of the digits dataset using 
+We have been given the digits dataset. We write a function to plot the clusters. We then carry out 2D embedding of the digits dataset using 
 spectral embedding. We use agglomerative clustering and plot the clusters using ward linkage, average linkage and complete linkage.
 <br>
 <br>
